@@ -31,3 +31,6 @@ td, th {
 tr:nth-child(even) {
   background-color: #f9f9f9;
 }
+.container h1 {
+  text-align: center;
+}
